@@ -1,1 +1,3 @@
-# Ejercicio_2
+# Ejercicio_2.
+
+print ("hola mundo")
